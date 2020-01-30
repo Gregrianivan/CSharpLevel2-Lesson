@@ -1,0 +1,6 @@
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_2\CSharpLevel2-Lesson_2\Lesson2\MyGame\obj\Debug\GameSyrovatskijIS.csprojAssemblyReference.cache
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_2\CSharpLevel2-Lesson_2\Lesson2\MyGame\bin\Debug\GameSyrovatskijIS.exe.config
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_2\CSharpLevel2-Lesson_2\Lesson2\MyGame\bin\Debug\GameSyrovatskijIS.exe
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_2\CSharpLevel2-Lesson_2\Lesson2\MyGame\bin\Debug\GameSyrovatskijIS.pdb
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_2\CSharpLevel2-Lesson_2\Lesson2\MyGame\obj\Debug\GameSyrovatskijIS.exe
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_2\CSharpLevel2-Lesson_2\Lesson2\MyGame\obj\Debug\GameSyrovatskijIS.pdb
